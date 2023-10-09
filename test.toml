@@ -3,7 +3,9 @@
 [inputs]
 source_file = "./source_data/"
 
-[print_name_service]
+[workflow]
+
+[workflow.print_name_service]
 
 [outputs]
 stdout = "true"
