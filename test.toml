@@ -1,0 +1,6 @@
+# This is a TOML document
+
+[inputs]
+source_file=./source_data/
+
+[echo_names]
