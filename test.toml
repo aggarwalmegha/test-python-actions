@@ -3,4 +3,7 @@
 [inputs]
 source_file=./source_data/
 
-[echo_names]
+[print_name_service]
+
+[outputs]
+stdout=True
